@@ -1,0 +1,7 @@
+Name	Xpos(f)	Ypos(f)	XposEnd(f)	YposEnd(t)	Xpos(i)	Ypos(i)	XposEnd(i)	YposEnd(i)
+Portrait_Skeleton_Black_p2	0.546875	0.000000	0.656250	0.945313	1120	0	1344	242
+Portrait_Cube_p2	0.000000	0.000000	0.109375	0.945313	0	0	224	242
+Portrait_Hermet_p4	0.109375	0.000000	0.218750	0.945313	224	0	448	242
+Portrait_Necromancer_Male	0.218750	0.000000	0.328125	0.945313	448	0	672	242
+Portrait_Necromancer_Female	0.328125	0.000000	0.437500	0.945313	672	0	896	242
+Portrait_BloodGolem_p2	0.437500	0.000000	0.546875	0.945313	896	0	1120	242

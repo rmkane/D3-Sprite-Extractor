@@ -1,0 +1,14 @@
+Name	Xpos(f)	Ypos(f)	XposEnd(f)	YposEnd(t)	Xpos(i)	Ypos(i)	XposEnd(i)	YposEnd(i)
+Portrait_Barbarian_Female_CheatDeath	0.001953	0.007813	0.111328	0.480469	4	4	228	246
+Portrait_Barbarian_Male_CheatDeath	0.115234	0.007813	0.224609	0.480469	236	4	460	246
+Portrait_Crusader_Female_CheatDeath	0.228516	0.007813	0.337891	0.480469	468	4	692	246
+Portrait_Crusader_Male_CheatDeath	0.341797	0.007813	0.451172	0.480469	700	4	924	246
+Portrait_DemonHunter_Female_CheatDeath	0.455078	0.007813	0.564453	0.480469	932	4	1156	246
+Portrait_DemonHunter_Male_CheatDeath	0.568359	0.007813	0.677734	0.480469	1164	4	1388	246
+Portrait_Monk_Female_CheatDeath	0.681641	0.007813	0.791016	0.480469	1396	4	1620	246
+Portrait_Monk_Male_CheatDeath	0.794922	0.007813	0.904297	0.480469	1628	4	1852	246
+Portrait_Necromancer_Female_CheatDeath	0.001953	0.496094	0.111328	0.968750	4	254	228	496
+Portrait_Necromancer_Male_CheatDeath	0.115234	0.496094	0.224609	0.968750	236	254	460	496
+Portrait_WitchDoctor_Female_CheatDeath	0.228516	0.496094	0.337891	0.968750	468	254	692	496
+Portrait_WitchDoctor_Male_CheatDeath	0.341797	0.496094	0.451172	0.968750	700	254	924	496
+Portrait_CheatDeath_Blinker	0.455078	0.496094	0.564453	0.968750	932	254	1156	496

@@ -1,0 +1,4 @@
+Name	Xpos(f)	Ypos(f)	XposEnd(f)	YposEnd(t)	Xpos(i)	Ypos(i)	XposEnd(i)	YposEnd(i)
+p7_Cosmetic_PortraitFrame_TriForce_01	0.000000	0.000000	0.781250	0.664063	0	0	200	340
+p7_Cosmetic_PortraitFrame_BFA	0.390625	0.664063	0.781250	0.996094	100	340	200	510
+p67_Cosmetic_PortraitFrame_Season19	0.000000	0.664063	0.390625	0.996094	0	340	100	510

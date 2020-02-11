@@ -1,0 +1,2 @@
+Name	Xpos(f)	Ypos(f)	XposEnd(f)	YposEnd(t)	Xpos(i)	Ypos(i)	XposEnd(i)	YposEnd(i)
+Portrait_WD_Sycophant	0.000000	0.000000	0.875000	0.945313	0	0	224	242

@@ -1,0 +1,6 @@
+Name	Xpos(f)	Ypos(f)	XposEnd(f)	YposEnd(t)	Xpos(i)	Ypos(i)	XposEnd(i)	YposEnd(i)
+P6_Portrait_fortress_SpiritNecromancer_Male	0.007813	0.519531	0.445313	0.755859	4	532	228	774
+P6_Portrait_Necromancer_Golem	0.007813	0.003906	0.507813	0.253906	4	4	260	260
+P6_Portrait_Necromancer_Revive	0.523438	0.261719	0.960938	0.498047	268	268	492	510
+P6_Portrait_Necromancer_SkeletonMage	0.523438	0.003906	0.960938	0.240234	268	4	492	246
+P6_Portrait_Necromancer_Skeleton	0.007813	0.261719	0.507813	0.511719	4	268	260	524
